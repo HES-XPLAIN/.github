@@ -10,5 +10,5 @@ Description of our repositories.
 - **[notebooks](../../../notebooks)**: Development of our use cases Jupyter notebooks, and related Docker files for easy deployment.
 - **[docker-notebook-base](../../../docker-notebook-base)**: Development of the docker base image for the notebook, comprising of Jupyter and all dependency packages necessary to run the provided notebooks.
 - **[huggingface.co/HES-XPLAIN](https://huggingface.co/HES-XPLAIN)**: Storage of our pre-trained models.
-- **[hes-xplain.github.io](../../../hes-xplain.github.io)**: The website for HES-XPLAIN, where general information, use case notebooks, documentations an ddownload are provided.
+- **[hes-xplain.github.io](../../../hes-xplain.github.io)**: The website for HES-XPLAIN, where general information, use case notebooks, documentations and download are provided.
 
