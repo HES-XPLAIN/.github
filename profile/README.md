@@ -9,5 +9,6 @@ Description of our repositories.
 - **[dimlpfidex](../../../dimlpfidex)**: Development of the low level explanation algorithms, extracting propositional rules from deep models where theprecise location of axis-parallel hyperplanes is known. Two new algorithms are presented, one for local explanation and the other for global explanations. 
 - **[notebooks](../../../notebooks)**: Development of our use cases Jupyter notebooks, and related Docker files for easy deployment.
 - **[docker-notebook-base](../../../docker-notebook-base)**: Development of the docker base image for the notebook, comprising of Jupyter and all dependency packages necessary to run the provided notebooks.
+- **[huggingface.co/HES-XPLAIN](https://huggingface.co/HES-XPLAIN)**: Storage of our pre-trained models.
 - **[hes-xplain.github.io](../../../hes-xplain.github.io)**: The website for HES-XPLAIN, where general information, use case notebooks, documentations an ddownload are provided.
 
